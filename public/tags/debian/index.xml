@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>debian on </title>
+    <link>https://joshuaholder.me/tags/debian/</link>
+    <description>Recent content in debian on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2023 14:54:38 -0500</lastBuildDate>
+    
+	<atom:link href="https://joshuaholder.me/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wireguard</title>
+      <link>https://joshuaholder.me/posts/tutorials/wireguard/</link>
+      <pubDate>Wed, 05 Jul 2023 14:54:38 -0500</pubDate>
+      
+      <guid>https://joshuaholder.me/posts/tutorials/wireguard/</guid>
+      <description>This is a rewrite of DigitalOcean&amp;rsquo;s guide for setting up WireGuard on Ubuntu. Their guide is linked here
+Setting up the WireGuard server  Install wireguard Generate keys Configure wireguard on the server Configure networking options on the server Configure firewall on the server Configure wireguard on the peer  Install WireGuard sudo apt install wireguard Generate server keys wg genkey | sudo tee /etc/wireguard/private.key sudo chmod go= /etc/wireguard/private.key The sudo chmod go= .</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,15 +2,16 @@ baseURL = "https://joshuaholder.me/"
 languageCode = "en-us"
 theme = "nightfall"
 
+
 [menu]
-    [[menu.header]]
-    name = "blog"
-    weight = 0
-    url = "blog"
     [[menu.header]]
     name = "posts"
     weight = 0
     url = "posts"
+    [[menu.header]]
+    name = "tutorials"
+    weight = 0
+    url = "tutorials"
     [[menu.header]]
     name = "about"
     weight = 1
