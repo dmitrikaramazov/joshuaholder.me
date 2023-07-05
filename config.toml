@@ -1,0 +1,44 @@
+baseURL = "https://joshuaholder.me/"
+languageCode = "en-us"
+theme = "nightfall"
+
+[menu]
+    [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "blog"
+    [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "posts"
+    [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+author = "Joshua Holder"
+user = "jholder"
+hostname = "joshuaholder.me"
+readingTime = false
+published = true
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/gohugoio"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://www.example.com"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.example.com"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:email@example.com"
