@@ -18,14 +18,13 @@ This is a rewrite of DigitalOcean's guide for setting up WireGuard on Ubuntu. Th
 
 ## Setting up the WireGuard server
 
-<br>
-t
-<br>
-t
-<br>
 
-
-
+1. [Install wireguard](#install-wireguard)
+2. [Generate keys](#generate-server-keys)
+3. [Configure wireguard on the server](#creating-wireguard-server-config)
+4. [Configure networking options on the server](#setting-up-the-servers-network-config)
+5. [Configure firewall on the server](#setting-up-the-servers-firewall)
+6. [Configure wireguard on the peer](#creating-the-wireguard-peer)
 
 
 
