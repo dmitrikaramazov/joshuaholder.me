@@ -1,0 +1,11 @@
+.indexWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.indexHeader {
+    font-size: 3em;
+    align-self:flex-end;
+}
