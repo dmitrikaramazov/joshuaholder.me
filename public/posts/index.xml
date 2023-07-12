@@ -1,42 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://joshuaholder.me/</link>
-    <description>Recent content on </description>
+    <title>Posts on </title>
+    <link>https://joshuaholder.me/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2023 13:19:58 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2023 13:18:16 -0500</lastBuildDate>
     
-	<atom:link href="https://joshuaholder.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joshuaholder.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>icosa</title>
-      <link>https://joshuaholder.me/projects/igl/icosa/</link>
-      <pubDate>Wed, 12 Jul 2023 13:19:58 -0500</pubDate>
-      
-      <guid>https://joshuaholder.me/projects/igl/icosa/</guid>
-      <description>icosa</description>
-    </item>
-    
-    <item>
-      <title>octa</title>
-      <link>https://joshuaholder.me/projects/igl/octa/</link>
-      <pubDate>Wed, 12 Jul 2023 13:19:58 -0500</pubDate>
-      
-      <guid>https://joshuaholder.me/projects/igl/octa/</guid>
-      <description>octa</description>
-    </item>
-    
-    <item>
-      <title>tetra</title>
-      <link>https://joshuaholder.me/projects/igl/tetra/</link>
-      <pubDate>Wed, 12 Jul 2023 13:19:58 -0500</pubDate>
-      
-      <guid>https://joshuaholder.me/projects/igl/tetra/</guid>
-      <description>tetra</description>
-    </item>
     
     <item>
       <title>index</title>
@@ -99,15 +72,6 @@
       
       <guid>https://joshuaholder.me/posts/test/</guid>
       <description>body</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://joshuaholder.me/projects/about/</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuaholder.me/projects/about/</guid>
-      <description>Personal site generated using Hugo and the Nightfall theme hosted on github pages.</description>
     </item>
     
   </channel>

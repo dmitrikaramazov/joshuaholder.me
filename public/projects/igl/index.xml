@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IGL on </title>
+    <link>https://joshuaholder.me/projects/igl/</link>
+    <description>Recent content in IGL on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jul 2023 13:19:58 -0500</lastBuildDate>
+    
+	<atom:link href="https://joshuaholder.me/projects/igl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>icosa</title>
+      <link>https://joshuaholder.me/projects/igl/icosa/</link>
+      <pubDate>Wed, 12 Jul 2023 13:19:58 -0500</pubDate>
+      
+      <guid>https://joshuaholder.me/projects/igl/icosa/</guid>
+      <description>icosa</description>
+    </item>
+    
+    <item>
+      <title>octa</title>
+      <link>https://joshuaholder.me/projects/igl/octa/</link>
+      <pubDate>Wed, 12 Jul 2023 13:19:58 -0500</pubDate>
+      
+      <guid>https://joshuaholder.me/projects/igl/octa/</guid>
+      <description>octa</description>
+    </item>
+    
+    <item>
+      <title>tetra</title>
+      <link>https://joshuaholder.me/projects/igl/tetra/</link>
+      <pubDate>Wed, 12 Jul 2023 13:19:58 -0500</pubDate>
+      
+      <guid>https://joshuaholder.me/projects/igl/tetra/</guid>
+      <description>tetra</description>
+    </item>
+    
+  </channel>
+</rss>

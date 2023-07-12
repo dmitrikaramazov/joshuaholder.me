@@ -3,97 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://joshuaholder.me/tags/debian/</loc>
-    <lastmod>2023-07-05T14:54:38-05:00</lastmod>
+    <loc>https://joshuaholder.me/</loc>
+    <lastmod>2023-07-12T13:19:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshuaholder.me/projects/igl/icosa/</loc>
+    <lastmod>2023-07-12T13:19:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshuaholder.me/projects/igl/</loc>
+    <lastmod>2023-07-12T13:19:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshuaholder.me/projects/igl/octa/</loc>
+    <lastmod>2023-07-12T13:19:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshuaholder.me/projects/igl/tetra/</loc>
+    <lastmod>2023-07-12T13:19:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshuaholder.me/posts/examples/</loc>
+    <lastmod>2023-07-12T13:18:16-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://joshuaholder.me/posts/</loc>
-    <lastmod>2023-07-05T14:54:38-05:00</lastmod>
+    <lastmod>2023-07-12T13:18:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joshuaholder.me/tags/</loc>
-    <lastmod>2023-07-05T14:54:38-05:00</lastmod>
+    <loc>https://joshuaholder.me/projects/</loc>
+    <lastmod>2023-07-12T13:18:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joshuaholder.me/tags/tutorial/</loc>
-    <lastmod>2023-07-05T14:54:38-05:00</lastmod>
+    <loc>https://joshuaholder.me/posts/test-copy-2/</loc>
+    <lastmod>2023-07-12T13:18:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joshuaholder.me/posts/tutorials/wireguard/</loc>
-    <lastmod>2023-07-05T14:54:38-05:00</lastmod>
+    <loc>https://joshuaholder.me/posts/test-copy-3/</loc>
+    <lastmod>2023-07-12T13:18:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joshuaholder.me/tags/wireguard/</loc>
-    <lastmod>2023-07-05T14:54:38-05:00</lastmod>
+    <loc>https://joshuaholder.me/posts/test-copy-4/</loc>
+    <lastmod>2023-07-12T13:18:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joshuaholder.me/posts/test-posts/test-copy-2/</loc>
-    <lastmod>2023-07-05T14:04:51-05:00</lastmod>
+    <loc>https://joshuaholder.me/posts/test-copy-5/</loc>
+    <lastmod>2023-07-12T13:18:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joshuaholder.me/posts/test-posts/test-copy-3/</loc>
-    <lastmod>2023-07-05T14:04:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshuaholder.me/posts/test-posts/test-copy-4/</loc>
-    <lastmod>2023-07-05T14:04:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshuaholder.me/posts/test-posts/test-copy-5/</loc>
-    <lastmod>2023-07-05T14:04:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshuaholder.me/posts/test-posts/test-copy/</loc>
-    <lastmod>2023-07-05T14:04:51-05:00</lastmod>
+    <loc>https://joshuaholder.me/posts/test-copy/</loc>
+    <lastmod>2023-07-12T13:18:16-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://joshuaholder.me/posts/test/</loc>
-    <lastmod>2023-07-05T14:04:51-05:00</lastmod>
+    <lastmod>2023-07-12T13:18:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joshuaholder.me/posts/test-posts/</loc>
-    <lastmod>2023-07-05T14:04:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshuaholder.me/tags/testing/</loc>
-    <lastmod>2023-07-05T14:04:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshuaholder.me/tags/testing2/</loc>
-    <lastmod>2023-07-05T14:04:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshuaholder.me/posts/placeholder/</loc>
-    <lastmod>2023-07-05T12:59:40-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshuaholder.me/posts/my-first-post/</loc>
-    <lastmod>2023-07-05T12:54:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshuaholder.me/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshuaholder.me/about/</loc>
+    <loc>https://joshuaholder.me/projects/about/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -102,7 +82,7 @@
   </url>
   
   <url>
-    <loc>https://joshuaholder.me/tags/index/</loc>
+    <loc>https://joshuaholder.me/tags/</loc>
   </url>
   
 </urlset>
