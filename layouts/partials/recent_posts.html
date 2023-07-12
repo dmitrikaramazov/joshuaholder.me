@@ -1,7 +1,17 @@
 
-<h2>
+<h3>
     Recent Posts
-</h2>
+</h3>
 <p>
-    Posts which are recent.
+    Posts which are recent
 </p>
+<ul>s 
+    {{- range ( where site.RegularPages "Section" "posts" | first 5 ) }}
+
+      <li>
+        <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
+        -
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+    {{- end -}}
+</ul>
