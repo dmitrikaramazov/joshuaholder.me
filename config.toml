@@ -9,13 +9,14 @@ theme = "nightfall"
     weight = 0
     url = "posts"
     [[menu.header]]
-    name = "tutorials"
+    name = "projects"
     weight = 0
-    url = "tutorials"
-    [[menu.header]]
-    name = "about"
-    weight = 1
-    url = "about"
+    url = "projects"
+#    url = "tutorials"
+#    [[menu.header]]
+#    name = "about"
+#    weight = 1
+#    url = "about"
 
 [params]
 author = "Joshua Holder"

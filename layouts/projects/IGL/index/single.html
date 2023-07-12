@@ -1,0 +1,90 @@
+
+
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MathViz19 IGL Project - Josh Holder</title>
+
+    <link rel="stylesheet" href="/archival/css/main.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="icon" href="images/favicon.png" />
+
+    <div class="container-fluid">
+        <div class="row">
+		
+          <div class="col-sm">
+          </div>
+		  
+          <div class="col-sm-7 header background">
+            <h2 class="text-center">Koch Extrusions on Platonic Solids</h2>
+            <h5 class="text-center">December 3, 2019</h5>
+            <h5 class="text-center">Joshua Holder</h5>
+            <p id="abstract" class="text-justify">
+                    This project re-implements and extends <a href="http://new.math.uiuc.edu/math198/MA198-2013/semibra2/">Yuliya Semibratova’s </a> 2013 MA198 IGL project
+					Higher Dimensional Koch Curves.
+					I have used Yuliya’s code for Koch extrusions on a tetrahedron in Python 
+					and re-implemented it in an interactive online web page using Javascript/WebGL. 
+					I further extended functionality to two more cases, the octahedron and icosahedron. 
+					After seeing Koch extrusions on a tetrahedron seemingly converge into a cube and 
+					extrusions on a cube seemingly converge into an octahedron, it was conjectured that 
+					the other Platonic solids would also converge to a Platonic solid. However, after 
+					completing the octahedron and icosahedron it was apparent that neither converge 
+					into a Platonic solid. A remaining possible explanation for the seeming convergence of 
+					the tetrahedron and cube are the dihedral angles between the faces of the polyhedra. 
+					The extrusions on a tetrahedron produce a tetrahedron on each face,
+					and it’s possible that the dihedral angle between the extrusions create the cube shape.
+            </p>
+            </div>
+            <div class="col-sm">
+            </div>
+        </div>
+        <div class="row">
+		
+            <div class="col-sm">
+            </div>
+            
+            <div class="col-sm-7 header background">
+              <h5 class="text-center">Interactive Applications showing Koch Extrusions on Platonic Solids</h5>
+              </div>
+              <div class="col-sm">
+              </div>
+          </div>
+        <div class="row text-center">
+            <div class="col-sm">
+            </div>
+            <div class="col-sm-12">
+                <div class="card " style="width: 18rem;">
+                    <img src="/archival/images/out_tetra.png" class="card-img-top" alt="Koch Extrusions on a tetrahedron">
+                    <div class="card-body">
+                        <h5 class="card-title">Tetrahedron</h5>
+                        <p class="card-text"><!--Recursion on a tetrahedron.--></p>
+                        <a href="tetra" class="btn btn-primary">Visit app</a>
+                    </div>
+                </div>
+                <div class="card" style="width: 18rem;">
+                    <img src="/archival/images/out_octa.png" class="card-img-top" alt="Koch Extrusions on an octahedron">
+                    <div class="card-body">
+                        <h5 class="card-title">Octahedron</h5>
+                        <p class="card-text"><!--Recursion on an octahedron.--></p>
+                        <a href="octa" class="btn btn-primary">Visit app</a>
+                    </div>
+				</div>
+                <div class="card" style="width: 18rem;">
+                    <img src="/archival/images/out_icosa.png" class="card-img-top" alt="Koch Extrusions on an icosahedron">
+                    <div class="card-body">
+                        <h5 class="card-title">Icosahedron</h5>
+                        <p class="card-text"><!--Recursion on an icosahedron.--></p>
+                        <a href="icosa" class="btn btn-primary">Visit app</a>
+                    </div>
+                </div>
+			</div>
+            <div class="col-sm">
+            </div>
+            </div>
+        </div>
+		<p class="text-center footer background">
+      <a href="/archival/other/projectnarrative.pdf">Project Narrative</a>
+       ||
+       <a href="/">Return to main site</a>
+		</p>
+    </div>

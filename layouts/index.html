@@ -22,7 +22,13 @@
                         <h1 class="indexHeader">{{ .Site.Params.author }}</h1>
                     </div>
                     <div>
-
+                        {{ partial "intro.html"}}
+                    </div>
+                    <div>
+                        {{ partial "recent_posts.html" }}
+                    </div>
+                    <div>
+                        {{ partial "miscellaneous.html" }}
                     </div>
                 </div>
             </main>

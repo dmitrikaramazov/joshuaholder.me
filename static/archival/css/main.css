@@ -1,0 +1,26 @@
+.card {
+    display:inline-block !important;
+    object-fit: cover !important;
+}
+.card-img-top{
+    width: 100%;
+    height: 18vw;
+    object-fit: cover;
+}
+#abstract {
+	padding-top: 1em;
+    padding-bottom: 0em;
+    margin-bottom: 0em;
+}
+.footer, .header {
+	padding-top:2em;
+}
+
+/*
+.col-sm-7, .col-sm-12 {
+    background-color:grey !important;
+}
+.col-sm {
+    background-color:red;
+}
+*/

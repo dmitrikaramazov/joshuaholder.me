@@ -3,9 +3,41 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+	
+	font-size:16px;
+	font-family: monospace;
+	color: #ebdbb2;
+	background-color: #1d2021;
 }
 
 .indexHeader {
     font-size: 3em;
     align-self:flex-end;
+}
+
+*, *:before, *:after {
+	margin: 0px;
+	box-sizing: border-box;
+	
+}
+/* Scroll bar */
+::-webkit-scrollbar {
+	width: 0.5em;
+	background: none;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+	background: black;
+	outline: 1px solid slategrey;
+  }
+p {
+	text-align: justify;
+	text-indent: 1em;
+}
+a{
+	color: #689d6a;
+	text-decoration: none;
+}
+h2, h3, h4, h5{
+	color: #83a598;
 }
