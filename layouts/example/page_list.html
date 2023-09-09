@@ -1,0 +1,26 @@
+{{ define "title"}}
+{{ .Title }} | {{ .Site.Params.author }}
+{{ end }}
+
+{{ define "main" }}
+
+<div>
+    <div class="listHeader">
+        <h1>{{ .Title }}</h1>
+    </div>
+
+    {{ with .Content }}
+    <div class="listContent">
+        {{- . -}}
+    </div>
+    {{ end }}
+
+    <div>
+        
+        
+        {{ partial "pagination.html" . }}
+        
+        
+    </div>
+</div>
+{{ end }}

@@ -1,7 +1,7 @@
 baseURL = "https://joshuaholder.me/"
 languageCode = "en-us"
 theme = "nightfall"
-
+paginate = 5
 
 [menu]
     [[menu.header]]
