@@ -13,24 +13,12 @@
 <body>
 
     <div class="flexWrapper">
-        {{ partial "header.html" . }}
+        {{ partial "headernothing.html" . }}
 
         <div class="content vertical">
             <main class="main">
                 <div class="indexWrapper">
-                    <div>
-                        <!-- <h1 class="indexHeader">{{ .Site.Params.author }}</h1> -->
-                        <h3>Welcome</h3>
-                    </div>
-                    <div>
-                        {{ partial "intro.html"}}
-                    </div>
-                    <div>
-                        {{ partial "recent_posts.html" }}
-                    </div>
-                    <div>
-                        {{ partial "miscellaneous.html" }}
-                    </div>
+                    {{ partial "nothing.html" }}
                 </div>
             </main>
         </div>
